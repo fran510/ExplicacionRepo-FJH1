@@ -1,3 +1,3 @@
 #ExplicacionRepo
 
-Proyecto para ilustrar el uso de repositorios.
+Proyecto para ilustrar el uso de repositorios
